@@ -1,0 +1,14 @@
+body { background-color: green}
+section{background-color:pink}
+h1,h2{color: cyan;
+font-family: verdana;
+border:2px solid;
+padding: 30px;
+margin: 100px;
+font-size: 160% }
+p{ color:pink;
+font-family: courier;
+font-size:200%}
+img{ color:pink;
+margin: auto;
+border:dotted}
